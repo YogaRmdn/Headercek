@@ -8,5 +8,5 @@ cd Headercek
 python headercek.py https://target.com/
 ```
 
-## 🖥️ Screenshot Tools
+## Screenshot Tools
 ![Adminfind](ss.png)
