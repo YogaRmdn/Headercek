@@ -9,4 +9,4 @@ python headercek.py https://target.com/
 ```
 
 ## Screenshot Tools
-![Adminfind](ss.png)
+![Headercek](ss.png)
